@@ -1,0 +1,22 @@
+{
+    "name": "jquery.layout",
+    "version": "1.4.4",
+    "authors": [
+        "Fabrizio Balliano",
+        "Kevin Dalman"
+    ],
+    "main": [
+        "jquery.layout.min.js",
+        "layout-default-latest.css"
+    ],
+    "description": "UI Layout – The Ultimate Page Layout Manager",
+    "license": "GPL and MIT",
+    "homepage": "http://layout.jquery-dev.net/index.cfm",
+    "dependencies": {
+        "jquery-ui": "*",
+        "jquery": "*"
+    },
+    "ignore": [
+        "README.md"
+    ]
+}
